@@ -1,2 +1,1 @@
-# larryrebirth
-Rebirth System - #Metin2
+Coder By Larry Watterson
